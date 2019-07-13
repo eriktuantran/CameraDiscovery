@@ -1,0 +1,7 @@
+*.pdb
+*.bin
+*exe.config
+CameraDiscovery/bin/Debug/*.dll
+CameraDiscovery/bin/Debug/*.xml
+.vs
+CameraDiscovery/obj
